@@ -70,7 +70,7 @@ window.LentaNOD = {};
     
     var image_map = function() {
       var map;
-      map = '<map id="imgmap201423191423" name="imgmap201423191423"><area shape="poly" alt="" title="Национально-освободительное движение" coords="0,0,138,139,138,86,55,0" href="http://rusnod.ru/top3.html" target="_blank" /></map>';
+      map = '<map id="imgmap201423191423" name="imgmap201423191423"><area style="outline:none;" shape="poly" alt="" title="Национально-освободительное движение" coords="0,0,138,139,138,86,55,0" href="http://rusnod.ru/top3.html" target="_blank" /></map>';
       
       return map;
     }
