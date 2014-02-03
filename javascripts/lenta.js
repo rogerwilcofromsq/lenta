@@ -1,6 +1,8 @@
-var LentaNOD = window.LentaNOD = {};
+window.LentaNOD = {};
 
 (function() {
+  var LentaNOD = window.LentaNOD;
+  
   var BASE_URL = "http://rusnod.github.io/lenta";
 
 
