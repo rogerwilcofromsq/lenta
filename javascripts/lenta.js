@@ -62,6 +62,6 @@ var LentaNOD = window.LentaNOD = {};
       return src;
     }
 
-    document.write("<span style='position: absolute; "+position_css()+"'><a href='http://rusnod.ru/top3.html' target='_blank'><img src='//"+BASE_URL+"/images/"+image_src()+"' style='border-style: none' /></a></span>");
+    document.write("<span style='position: absolute; "+position_css()+"'><a href='http://rusnod.ru/top3.html' target='_blank'><img src='"+BASE_URL+"/images/"+image_src()+"' style='border-style: none' /></a></span>");
   };
 })();
